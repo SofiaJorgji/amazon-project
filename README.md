@@ -1,13 +1,11 @@
-# Basic Project
-## Basic Project Structure
+# Amazon test cases
+## Amazon Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for Amazon Project*
 
 **Java 8**
 
 * Maven
 * JUnit
-
-Java Project for SQA Boot Camp Program. 
 
 [Sofia Jorgji](https://github.com/SofiaJorgji/)
